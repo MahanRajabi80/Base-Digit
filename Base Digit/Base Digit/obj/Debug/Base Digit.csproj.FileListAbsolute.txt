@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\bin\Debug\Base Digit.exe.config
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\bin\Debug\Base Digit.exe
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\bin\Debug\Base Digit.pdb
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base Digit.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base_Digit.Form1.resources
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base_Digit.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base Digit.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base Digit.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base Digit.exe
+C:\Users\Mahan\source\repos\Base Digit\Base Digit\obj\Debug\Base Digit.pdb
